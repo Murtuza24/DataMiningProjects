@@ -1,0 +1,19 @@
+Mohammed Murtuza Bhaiji
+
+label classes:
+Moedbhji
+MOEDBHJI
+
+
+use data handlers
+
+29 train
+10 test
+
+SVM linear kernel
+
+1) Get predicted classes (alphabets)
+2) get score
+3) stored train data in trainData.txt
+4) stored test data in testData.txt
+5) stored predicted labels for test data in predictedLabels.txt
