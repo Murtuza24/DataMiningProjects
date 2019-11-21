@@ -60,14 +60,14 @@ that your classifier works correctly.
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%    Your 5 tasks A, B, C, D, E  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
 Purpose:
 (1)  Implement Centroid methods by yourself.
-(2)  Learn to use Linear Regression £¨this is optional).
+(2)  Learn to use Linear Regression Â£Â¨this is optional).
 (3) Learn to use Support Vector Machine (SVM) in Matlab or Python.
 (4) Learn to use cross-validation related subroutine/functions in Matlab or Python.
 (5) Implement the data handler of Task E.
 
 
 
-(A£©
+(AÂ£Â©
 Use the data-handler to select "A,B,C,D,E" classes from the hand-written-letter data. 
 From this smaller dataset, Generate a training and test data: for each class
 using the first 30 images for training and the remaining 9 images for test.
@@ -118,7 +118,7 @@ and the list of corresponding class labels.
 Example 3. Generate a 2-class data as the input to the 2-class SVM classifier.
   From the hand-written-letter data, you first use "pickDataClass" subroutine and pick 
   "C" and "F" classes and store them in a file or an array.
-  Then you use ¡°splitData2TestTrain" split the data: using the first 30 images in "C" and in "F" 
+  Then you use Â¡Â°splitData2TestTrain" split the data: using the first 30 images in "C" and in "F" 
   to form the training data, and using the remaining 9 images in each class to form the 
   test data. Thus the training data contains 30*2 images, the test data contains 9*2 images.
 
@@ -172,8 +172,6 @@ Subroutine-4: "letter_2_digit_convert" that converts a character string to an in
 
 Write a brief report (5 pages or less) on your findings/results in task A, B, D, E.
 
--------------------------------------------------------------------------------
-The quiz will ask you to do something very similar to tasks A, B, C, D.
 -------------------------------------------------------------------------------
 
 
